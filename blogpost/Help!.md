@@ -1,4 +1,4 @@
-# HELP - I Call on my Fellow Hackers
+# HELP - I Call Upon my Fellow Hackers
 
 ## Something is up!
 
